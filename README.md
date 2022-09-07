@@ -83,5 +83,10 @@
 ![名言チャットボット](https://github.com/DevelopOpenAPI/DOP_LINEChatBotForQuotations/blob/main/L_gainfriends_qr.png)
 
 # LINEChatBotとの会話の仕方
+チャットボットとの会話の方法は至ってシンプルです。  
+方法１：名言チャットボットを上記のQRコードから友達追加してください。  
+方法２：チャット画面を開き、名言を確認したい偉人の名前を全角で入力してください。※この時、「・」も全角で入力するようにしてください。  
+方法３：名言チャットボットから確認したい名言が返ってきます。  
 
-# LINEChatBotの使い方
+<img src="https://github.com/DevelopOpenAPI/DOP_LINEChatBotForQuotations/blob/main/unnamed.jpg" width="320px">
+
