@@ -80,7 +80,7 @@
 また、今後アップデートにより機能追加やワードが増えていく予定です。
 
 # 名言チャットボットの追加
-
+![名言チャットボット](https://github.com/DevelopOpenAPI/DOP_LINEChatBotForQuotations/blob/main/L_gainfriends_qr.png)
 
 # LINEChatBotとの会話の仕方
 
