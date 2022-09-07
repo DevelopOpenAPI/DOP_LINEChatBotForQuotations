@@ -65,3 +65,39 @@
 | 63         |ラリー・ペイジ|他人から常軌を逸していると思われるようなことをやっていないとしたら、あなたは間違ったことをやっている。|If you’re not doing some things that are crazy, then you’re doing the wrong things.|
 | 64         |エイブラハム・リンカーン|待っていれば何かが起こるかもしれないが、それは頑張った人の残り物だけである。|Things may come to those who wait, but only the things left by those who hustle.|
 | 65         |パブロ・ピカソ|行動がすべての成功への基本的な鍵である。|Action is the foundational key to all success.|
+| 66         |トーマス・エジソン|最上の思考は孤独のうちになされ、最低の思考は混乱のうちになされる。|The best thinking has been done in solitude. The worst has been done in turmoil.|
+|67          |スティーブ・ジョブズ|細部にこだわる。それは時間をかけてもこだわる価値のあるものだ。|Details matter, it’s worth waiting to get it right.|
+|68          |アルバート・アインシュタイン|成功者になろうとするな。価値ある者になろうとせよ。|Try not to become a man of success, but rather try to become a man of value.|
+|69          |ナポレオン|真の男は誰に対しても憎しみをもたない。|A true man hates no one.|
+|70          |キング牧師|愛は、敵を友人に変えられる唯一の力である。|Love is the only force capable of transforming an enemy into a friend.|
+|71          |ゲーテ|愛は支配しない、愛は育てる。|Love does not dominate; it cultivates.|
+|72          |ジョン・レノン|愛とは、育てなくてはならない花のようなもの。|Love is like a flower – you’ve got to let it grow.|
+|73          |ジェームズ・ディーン|永遠に生きるつもりで夢を抱け。今日死ぬつもりで生きろ。|Dream as if you’ll live forever. Live as if you’ll die today.|
+|74          |ルソー|慣習とは反対の道を行け。そうすれば常に物事はうまくいく。|Take the course opposite to custom and you will almost always do well.|
+|75          |プラトン|自分に打ち勝つことが、最も偉大な勝利である。|The first and best victory is to conquer self.|
+|76          |ウォルト・ディズニー|勝者と敗者の違いはたいていの場合、、、やめないことである。|The difference between winning and losing is most often not quitting.|
+|77          |ウィンストン・チャーチル|成功とは、失敗を重ねても、やる気を失わないでいられる才能である。|Success is the ability to go from failure to failure without losing your enthusiasm.|
+|78          |ソクラテス|良い評判を得る方法は、あなた自身が望む姿になるよう努力することだ。|The way to gain a good reputation is to endeavor to be what you desire to appear.|
+|79          |チャールズ・チャップリン|人生はクローズアップで見れば悲劇だが、ロングショットで見ればコメディだ。|Life is a tragedy when seen in close-up, but a comedy in long-shot.|
+|80          |トム・クルーズ|困難に直面したのなら、溺れるか、泳ぐかのどちらかしかないんだ。|When you have to cope with a lot of problems, you’re either going to sink or you’re going to swim.|
+|81          |ジム・ロジャーズ|もがき苦しみ、自分だけの道をつくることより良いことは他にない。|There is nothing better than having to struggle and make your own way.|
+|82          |トーマス・エジソン|私たちの最大の弱点は諦めることにある。成功するのに最も確実な方法は、常にもう一回だけ試してみることだ。|Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.|
+|83          |マイケル・ジョーダン|仕事をするからこそ報われるんだ。人生にショートカットなどない。|If you do the work you get rewarded. There are no shortcuts in life.|
+|84          |フィンセント・ファン・ゴッホ|大事は寄せ集められた小事によってなされる。|Great things are done by a series of small things brought together.|
+|85          |アイゼンハワー|悲観主義は、どの戦いにも勝利してこなかった。|Pessimism never won any battle.|
+|86          |マザー・テレサ|人を批判していると、人を愛する時間がなくなります。|If you judge people, you have no time to love them.|
+|87          |プラトン|親切にしなさい。あなたが会う人はみんな、厳しい闘いをしているのだから。|Be kind, for everyone you meet is fighting a harder battle.|
+|88          |アンネ・フランク|幸せな人は、他の人も幸せにしてしまうわ。|Whoever is happy will make others happy too.|
+|89          |エイブラハム・リンカーン|あなたがたとえどのような状態であろうと、良い人間であれ。|Whatever you are, be a good one.|
+|90          |ジョディ・フォスター|理解されることは、人生の中で最も重要な問題ではない。|Being understood is not the most essential thing in life.|
+|91          |ヘミングウェイ|正しさとは何か？後味の良いことだ。悪とは何か？後味の悪いことだ。|What is moral is what you feel good after and what is immoral is what you feel bad after.|
+|92          |ゲーテ|自分自身を信じてみるだけでいい。きっと、生きる道が見えてくる。|Just trust yourself, then you will know how to live.|
+|93          |チャールズ・チャップリン|下を向いていたら、虹を見つけることは絶対に出来ないよ。|You’ll never find a rainbow if you’re looking down.|
+|94          |チャールズ・チャップリン|笑いのない日、それは人生の無駄な日である。|A day without laughter is a day wasted.|
+|95          |ジョン・レノン|無駄を楽しんでいるならば、その時間は無駄ではない。|Time you enjoy wasting, was not wasted.|
+|96          |パブロ・ピカソ|あなたの人生のあなたの仕事。それは究極の魅力。|It is your work in life that is the ultimate seduction.|
+|97          |アリストテレス|物事をうまく始められたなら、半分できたも同然だ。|Well begun is half done.|
+|98          |ウォルト・ディズニー|何かを始めるには、話すのをやめて行動し始めることです。|The way to get started is to quit talking and begin doing.|
+|99          |ソクラテス|生きるために食べよ、食べるために生きるな。|Thou shouldst eat to live; not live to eat.|
+|100         |ベートーヴェン|多くの人々に幸せや喜びを与えること以上に、崇高で素晴らしいものはない。|You’ll give happiness and joy to many other people. There is nothing better or greater than that!|
+
