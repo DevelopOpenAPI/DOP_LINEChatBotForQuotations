@@ -79,10 +79,16 @@
 2022年9月7日時点で65ワードとなっています。  
 また、今後アップデートにより機能追加やワードが増えていく予定です。
 
+# 集約名言
+以下ファイルを参照してください。  
+
+・Word No1～Word No65  
+<https://github.com/DevelopOpenAPI/DOP_LINEChatBotForQuotations/blob/main/Quotations_WordList1.md>
+
 # 名言チャットボットの追加
 ![名言チャットボット](https://github.com/DevelopOpenAPI/DOP_LINEChatBotForQuotations/blob/main/L_gainfriends_qr.png)
 
-# LINEChatBotとの会話の仕方
+# 名言チャットボットとの会話の仕方
 チャットボットとの会話の方法は至ってシンプルです。  
 方法１：名言チャットボットを上記のQRコードから友達追加してください。  
 方法２：チャット画面を開き、名言を確認したい偉人の名前を全角で入力してください。※この時、「・」も全角で入力するようにしてください。  
