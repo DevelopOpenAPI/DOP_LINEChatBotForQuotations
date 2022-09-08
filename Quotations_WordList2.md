@@ -32,4 +32,12 @@
 |130         |ソクラテス|世界を動かそうと思ったら、まず自分自身を動かせ。|Let him who would move the world, first move himself.|
 |131         |ゲーテ|小さい夢は見るな。それには人の心を動かす力がないからだ。|Dream no small dreams for they have no power to move the hearts of men.|
 |132         |プラトン|勇気とは恐れる必要がないものが何であるか分っていることだ。|Courage is knowing what not to fear.|
-|133         |マハトマ・ガンディー|あなたがこの世で見たいと願う変化に、あなた自身がなりなさい。|You must be the change you want to see in the world.|
+|134         |ウィンストン・チャーチル|行動する事は少しも恐れはしない。恐れるのは、ただ無為に時を過ごす事だけだ。|I never worry about action, but only inaction.|
+|135         |ウィンストン・チャーチル|向上とは変わることである。完全になるとは、よく変わり続けることである。|To improve is to change; to be perfect is to change often.|
+|136         |ウィンストン・チャーチル|成功があがりでもなければ、失敗が終わりでもない。肝心なのは、続ける勇気である。|Success is not final, failure is not fatal: it is the courage to continue that counts.|
+|137         |ウィンストン・チャーチル|社会主義とは負け組の哲学、無知な者の宗教、嫉妬への福音でしかない。ただし、不幸をみんなで共有できることだけが美徳であろう|Socialism is a philosophy of failure, the creed of ignorance, and the gospel of envy, its inherent virtue is the equal sharing of misery.|
+|138         |ウィンストン・チャーチル|築き上げることは、多年の長く骨の折れる仕事である。破壊することは、たった一日の思慮なき行為で足る。|To build may have to be the slow and laborious task of years. To destroy can be the thoughtless act of a single day.|
+|139         |ウィンストン・チャーチル|休んで一息ついてる時間はない。今は挑戦して耐え忍ぶときだ。|This is no time for ease and comfort. It is time to dare and endure.|
+|140         |ウィンストン・チャーチル|偉大さの代償は、責任である。|The price of greatness is responsibility.|
+|141         |ウィンストン・チャーチル|人生最大の教訓は、愚かな者たちでさえ時には正しいと知ることだ。|The greatest lesson in life is to know that even fools are right sometimes.|
+|142         |ウィンストン・チャーチル|成功とは、情熱を失うことなしに失敗を繰り返すことで出来上がっているのだ。|Success consists of going from failure to failure without loss of enthusiasm.|
